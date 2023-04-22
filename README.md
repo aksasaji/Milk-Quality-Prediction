@@ -4,13 +4,21 @@ Milk Quality Prediction
 Life cycle of Machine Learning Project
 
 -Understanding the problem statement
+
 -Data Collection
+
 -Exploratory Data Analysis
+
 -Data Cleaning
+
 -Data Pre-Processing
+
 -Model Training
+
 -Feature Imoortance Using Random Forest Classifier
+
 -PCA of Features
+
 -Artificial Neural Network
 
 Description of Dataset:

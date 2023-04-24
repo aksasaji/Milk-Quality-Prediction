@@ -1,6 +1,7 @@
 # Milk-Quality-Prediction
 
 Milk Quality Prediction
+
 Life cycle of Machine Learning Project
 
 -Understanding the problem statement
@@ -42,5 +43,7 @@ We have to perform data processing, and data augumentation to build statistical 
 
 Conclusion:
 -It can seen that,all the model accuracy is more than 70%. The highest accuracy is 100% of the Extreme Gradient Boost and Random Forest.
+
 -The dataset pH and Temperature seem to be the most valuable features influencing the Grade of the Milk.
+
 -Observed that temperature and color have over 95% composition to PC-1 and PC-2. For milk factory to ensure the quality of their product, these two parameters are the first priority

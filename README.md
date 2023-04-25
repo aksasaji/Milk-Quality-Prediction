@@ -16,7 +16,7 @@ Life cycle of Machine Learning Project
 
 -Model Training
 
--Feature Imoortance Using Random Forest Classifier
+-Feature Importance Using Random Forest Classifier
 
 -PCA of Features
 
